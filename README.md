@@ -1,2 +1,2 @@
-# SQL_DB-SKSNationalBank
+# SKSNationalBank
 Small database developed for training purposes.
